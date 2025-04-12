@@ -16,7 +16,7 @@ This project provides a pre-configured PostgreSQL instance using Docker. The set
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/postgres.git
+git clone https://github.com/kuzven/postgres.git
 cd postgres
 ```
 
